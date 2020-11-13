@@ -15,6 +15,7 @@
 <a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
 <div align="center">
 <details>
@@ -24,8 +25,8 @@
  
 </details>
 
-bantu kontribusi dengan cara pull request atau request di issues, makasi
-[My Whatsapp](https://wa.me/6281290142115?text=aruga?)
+ini semua gratis, jangan pelit ⭐️ ya :D
+<p align="center"><a href="https://arugaz.herokuapp.com/" target="_blank">Free Rest APIs</a>.</p>
 </div>
 
 ## Getting Started
@@ -69,12 +70,9 @@ pls dont remove my github link:)
 
 ## Features
 
-| Fitur premium |bantu klik star|
+| 18+ |Yes|
 | ------------- | ------------- |
-| nekopoi search link| ✅|
-| pornhub downloads| sampe 45|
-| simi-simi chat bot| sampe 50|
-| nekopoi search video| sampe 50|
+| Nekopoi |✅|
 
 | Creator |Yes|
 | ------------- | ------------- |
@@ -102,17 +100,24 @@ pls dont remove my github link:)
 | Youtube Music |✅|
 | Youtube Video |✅|
 
+| Primbon |Yes|
+| ------------- | ------------- |
+| Arti nama |✅|
+| Cek Jodoh |✅|
+
 | Searchs |Yes|
 | ------------- | ------------- |
 | Images |✅|
 | Subreddit |✅|
 | Resep makanan |✅|
-| Nekopoi links |✅|
 | Stalk IG |✅|
 | Wikipedia |✅|
 | Cuaca |✅|
-| Chord music |✅|
+| Chord musik |✅|
+| Lirik musik |✅|
 | Screen Crot!|✅|
+| Play music|✅|
+| whats anime?|✅|
 
 | Random text |Yes|
 | ------------- | ------------- |
@@ -133,7 +138,9 @@ pls dont remove my github link:)
 | Teks to Sound/Voice|✅|
 | Translate teks|✅|
 | Get covid info from map|✅|
+| Covid-19 Indo|✅|
 | Shortlink|✅|
+| Bap4k F0nt|✅|
 
 | Groups |Yes|
 | ------------- | ------------- |
