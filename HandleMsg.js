@@ -85,7 +85,7 @@ module.exports = HandleMsg = async (aruga, message) => {
 			axios.get(`https://arugaz.herokuapp.com/api/simisimi?kata=${message.body}&apikey=${apiSimi}`)
 			.then((res) => {
 				if (res.data.status == 403) return aruga.sendText(ownerNumber, `${res.data.result}\n\n${res.data.pesan}`)
-				aruga.reply(from, `simi berkata: ${res.data.result}`, id)
+				aruga.reply(from, ` ${res.data.result}`, id)
 			})
 			.catch((err) => {
 				aruga.reply(from, `${err}`, id)
